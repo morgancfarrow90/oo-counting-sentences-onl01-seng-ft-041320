@@ -33,6 +33,3 @@ def count_sentences
     return new_array.length
   end
 end
-
-  end
-end
